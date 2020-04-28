@@ -286,13 +286,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"DateApp/Preview Content\"";
+				DEVELOPMENT_TEAM = ARLPD5DH7J;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = DateApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = c.DateApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.diego.caridei.docTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -305,13 +306,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"DateApp/Preview Content\"";
+				DEVELOPMENT_TEAM = ARLPD5DH7J;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = DateApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = c.DateApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.diego.caridei.docTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
